@@ -1,1 +1,1 @@
-![a photo of JP King with title of "Full Stack Web Developer" followed by contact information](images/jpk_banner.png)
+![a photo of JP King with title of "Full Stack Web Developer" followed by contact information](images/jpk_banner_sansPhoto.png)
